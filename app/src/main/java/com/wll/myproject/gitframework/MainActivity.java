@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         Log.i( "wll11", "1" );
 
         Log.i( "wll11", "1" );
+        Log.i( "wll11", "2" );
     }
 }
